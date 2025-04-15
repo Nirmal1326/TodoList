@@ -1,2 +1,1 @@
-# TodoList
-Created with CodeSandbox
+# TodoList using React
